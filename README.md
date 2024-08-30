@@ -7,6 +7,12 @@ It will also set the CouchDb instance up for [Obsidan-LiveSync](https://github.c
 - Terraform
 - Terragrunt
 
+# Clone the repository
+---
+```bash
+git clone https://github.com/wazeback/Obsidian-LiveSync-Docker.git
+```
+
 # Building the image
 ---
 ```bash
