@@ -1,5 +1,5 @@
 This code base creates a Docker container + Volume to run CouchDB.
-It will also sets the CouchDb instance up for the [Obsidian self-hosted sync plugin](https://github.com/vrtmrz/obsidian-livesync)
+It will also set the CouchDb instance up for https://github.com/vrtmrz/obsidian-livesync
 
 # Requierments
 ---
