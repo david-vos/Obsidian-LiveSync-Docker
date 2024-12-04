@@ -10,7 +10,7 @@ It will also set the CouchDb instance up for [Obsidan-LiveSync](https://github.c
 # Clone the repository
 ---
 ```bash
-git clone https://github.com/wazeback/Obsidian-LiveSync-Docker.git
+git clone https://github.com/david-vos/Obsidian-LiveSync-Docker.git
 ```
 
 # Building the image
